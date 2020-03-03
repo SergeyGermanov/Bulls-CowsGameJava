@@ -1,0 +1,36 @@
+Bulls & Cows Results
+Computer's AI is HARD
+Your code: 5014
+Computer's code: 5790
+---
+Turn 1:
+Computer guess is: 6472
+Computer's guess got: 1 Cows and 0 Bulls.
+Your guess is: 5673
+Your guess got: 1 Cows and 1 Bulls.
+---
+Turn 2:
+Computer guess is: 4091
+Computer's guess got: 2 Cows and 1 Bulls.
+Your guess is: 1234
+Your guess got: 0 Cows and 0 Bulls.
+---
+Turn 3:
+Computer guess is: 4319
+Computer's guess got: 1 Cows and 1 Bulls.
+Your guess is: 9785
+Your guess got: 2 Cows and 1 Bulls.
+---
+Turn 4:
+Computer guess is: 4905
+Computer's guess got: 3 Cows and 0 Bulls.
+Your guess is: 0987
+Your guess got: 3 Cows and 0 Bulls.
+---
+Turn 5:
+Computer guess is: 5014
+Computer guessed your Secret Code.
+Your guess is: 5671
+Your guess got: 1 Cows and 1 Bulls.
+---
+Computer won after 5 guesses.
