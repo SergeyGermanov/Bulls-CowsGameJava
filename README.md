@@ -1,3 +1,7 @@
+# Bulls & Cows Game
+
+- JAVA console game
+
 author: Sergey Germanov
 
 I added some ASCII art (http://ascii.co.uk/) to make the interface of the game more appealing to play.
